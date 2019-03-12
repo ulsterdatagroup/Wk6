@@ -1,0 +1,10 @@
+With Wk6 there is an issue working with sampledata.
+See slide 5
+
+Mine was here
+C:\Users\*****yourWindowsUser****\AppData\Local\Continuum\anaconda3\Lib\site-packages\bokeh\sampledata
+
+Also with the download of the larger sampledata packages, this worked in AnacondaPrompt
+bokeh sampledata
+
+Cheers
